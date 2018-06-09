@@ -1,0 +1,25 @@
+.img-responsive {
+    height: auto;
+    width: 100%;
+    display: inline-block;
+  }
+.jumbotron {
+  opacity: 0.7;
+}
+h1,
+h3 {
+  opacity: 1;
+}
+p {
+  color: white;
+  font-size: 14px;
+}
+#result {
+  font-size: 20px;
+}
+#yc {
+  font-size: 18px;
+}
+#ec {
+  font-size: 18px;
+}
